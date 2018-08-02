@@ -1,7 +1,7 @@
 ## PHP - CSV importer (Command Line Utility) v1.0.0
 Muhammad Adnan
 
-A PHP CLI based utility to import a CSV file. You can either use the following
+A PHP CLI based utility to import a CSV file into MySQL database. You can either use the following
  CLI options to specify the settings or add your settings directly in the file.  
  
 ##Usage:
